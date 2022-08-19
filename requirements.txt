@@ -1,0 +1,9 @@
+tqdm
+scipy
+torch
+numpy
+pandas
+requests
+torchvision
+transformers
+scikit-learn
